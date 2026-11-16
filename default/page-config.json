@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-instrumentos-y-efectos-midi.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Instrumentos y efectos MIDI | Lynx Pardelle",
+    "description": "Construye una pista a partir de notas MIDI y experimenta con dispositivos que alteran lo que toca el instrumento. Explora variaciones de altura, duración e intensidad desde el mismo patrón.",
+    "canonical": "https://masterclass-instrumentos-y-efectos-midi.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-midi.webp"
+    }
+  }
+}
