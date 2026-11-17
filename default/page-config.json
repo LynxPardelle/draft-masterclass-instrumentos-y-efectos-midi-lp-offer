@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Instrumentos y efectos MIDI | Lynx Pardelle",
-    "description": "Construye una pista a partir de notas MIDI y experimenta con dispositivos que alteran lo que toca el instrumento. Explora variaciones de altura, duración e intensidad desde el mismo patrón.",
+    "title": "Masterclass de instrumentos y efectos MIDI | Lynx Pardelle",
+    "description": "Configura clips e instrumentos MIDI y transforma su interpretación con efectos de acordes, arpegios, altura, velocidad, duración y variación.",
     "canonical": "https://masterclass-instrumentos-y-efectos-midi.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-instrumentos-y-efectos-midi-r2-bd4a48594e966d30.webp",
+      "title": "Masterclass de instrumentos y efectos MIDI | Lynx Pardelle",
+      "description": "Configura clips e instrumentos MIDI y transforma su interpretación con efectos de acordes, arpegios, altura, velocidad, duración y variación.",
+      "url": "https://masterclass-instrumentos-y-efectos-midi.music.lynxpardelle.com/",
+      "imageAlt": "Teclado controlador MIDI con perillas en una mesa de producción."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de instrumentos y efectos MIDI | Lynx Pardelle",
+      "description": "Configura clips e instrumentos MIDI y transforma su interpretación con efectos de acordes, arpegios, altura, velocidad, duración y variación.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-instrumentos-y-efectos-midi-r2-bd4a48594e966d30.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-instrumentos-y-efectos-midi.music.lynxpardelle.com/#webpage",
+        "name": "Instrumentos y efectos MIDI",
+        "description": "Configura clips e instrumentos MIDI y transforma su interpretación con efectos de acordes, arpegios, altura, velocidad, duración y variación.",
+        "url": "https://masterclass-instrumentos-y-efectos-midi.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-instrumentos-y-efectos-midi.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-instrumentos-y-efectos-midi.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Instrumentos y efectos MIDI",
+        "description": "Configura clips e instrumentos MIDI y transforma su interpretación con efectos de acordes, arpegios, altura, velocidad, duración y variación.",
+        "url": "https://masterclass-instrumentos-y-efectos-midi.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-instrumentos-y-efectos-midi-r2-bd4a48594e966d30.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-instrumentos-y-efectos-midi.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
